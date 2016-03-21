@@ -20,4 +20,20 @@ of data that is found, determine if that piece of text is a copy paste or not...
 
 Wellp hands on 
 
+22:51 PM
 
+After looking up on the internet for information I got this piece of code
+https://gist.github.com/etienned/7539105
+
+Thanks to the author, etienned, the piece of code of my program that reads
+text from a word file will be inspired on his piece of code
+
+23:17 pm
+
+well, now I have the component that reads the text from the input and puts it as raw text on an input
+
+Things we still have to look up on this:
+		- What to do when we have special characters, i.e letters that are not on the english alphabet
+
+
+For tomorrow I will lookup how to do the internet search, 

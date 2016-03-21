@@ -1,0 +1,23 @@
+Entry no. 1
+
+03/20/2016 21:03 PM
+
+
+So this is it, I'm on my easter break and with nothing else to procastinate I want to create this appplication
+that will help me to detect "copy-paste" on word documents, mostly the motivation is to help on my duty as a 
+tutor on my  social service, since I'm in contact with highschool students and sometimes I have to grade
+essays and other homeworks, I feel that it would be easier to detect plagiarism if I had some sort of tool....
+And so from there came the idea.
+
+
+I will develop on python mostly because I feel it provides easier tools.... I still don't know where to begin
+so for today the first task for myself will be to research how to read a word document using python (I feel 
+that it has to do something with XML), and my second task is to research how to do web searches on google 
+using python.
+
+The basic idea is to take part of the essay on word and do a websearch on google and based on the percentage
+of data that is found, determine if that piece of text is a copy paste or not......
+
+Wellp hands on 
+
+
